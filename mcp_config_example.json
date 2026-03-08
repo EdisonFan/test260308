@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "human-loop": {
+      "command": "python",
+      "args": [
+        "E:/frontEnd/test/hostApp/loop.py"
+      ],
+      "env": {}
+    }
+  }
+}
